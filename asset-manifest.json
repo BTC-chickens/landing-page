@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ea2f983.css",
+    "main.js": "/static/js/main.f13a1736.js",
+    "static/media/chickens.gif": "/static/media/chickens.637d71a77de8b3aa6740.gif",
+    "static/media/chickens-mobile.gif": "/static/media/chickens-mobile.3f5ee9db29d4459170fd.gif",
+    "static/media/circular-std-medium.otf": "/static/media/circular-std-medium.9ffafeddf192e8c8a111.otf",
+    "static/media/circular-book.otf": "/static/media/circular-book.9048137056e4347dbbd5.otf",
+    "static/media/minusio.ttf": "/static/media/minusio.bedb990d802a7fd04c23.ttf",
+    "index.html": "/index.html",
+    "main.7ea2f983.css.map": "/static/css/main.7ea2f983.css.map",
+    "main.f13a1736.js.map": "/static/js/main.f13a1736.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ea2f983.css",
+    "static/js/main.f13a1736.js"
+  ]
+}
